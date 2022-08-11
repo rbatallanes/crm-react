@@ -1,19 +1,36 @@
 {
-  "posts": [
+  "clientes": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nombre": "Ricardo-0",
+      "empresa": "cot",
+      "email": "ricky_kpo17@hotmail.com",
+      "telefono": "3816148940",
+      "notas": "",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "nati",
+      "empresa": "Ginecología",
+      "email": "n_puertas@hotmail.com",
+      "telefono": "3815214649",
+      "notas": "qwe",
+      "id": 5
+    },
+    {
+      "nombre": "Juli",
+      "empresa": "Gemes",
+      "email": "gemes@gmail.com",
+      "telefono": "123",
+      "notas": ".",
+      "id": 6
+    },
+    {
+      "nombre": "Lujani",
+      "empresa": "Gemes",
+      "email": "gemes@gmail.com",
+      "telefono": "123",
+      "notas": "-",
+      "id": 7
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
